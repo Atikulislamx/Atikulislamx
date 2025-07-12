@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://usamasarwar.github.io/UsamaSarwar/sitemap.xml
+Sitemap: https://atikulislamx.github.io/Atikulislamx/sitemap.xml
 
 # Block access to specific files
 Disallow: /script.js
