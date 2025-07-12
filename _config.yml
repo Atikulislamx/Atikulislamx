@@ -2,23 +2,23 @@
 # Static site configuration - No Jekyll theme dependencies
 
 # Site Settings
-title: "Usama Sarwar - Full-Stack Flutter Developer"
-description: "Professional Software Engineer expert at cross-platform Flutter App Development, Community Builder & Open Source Advocate empowering businesses through innovative technology solutions."
-url: "https://usamasarwar.github.io"
-baseurl: "/UsamaSarwar"
+title: "Atikul Islam Rabbi - Social Media & Cybersecurity Expert | Founder of Cyber Infinity."
+description: "Social Media & Cybersecurity Expert specializing in Recovering Hacked Facebook Page, Group, Account and other digital asset, Digital marketing strategy, and open-source contributions."
+url: "https://atikulislamx.github.io/"
+baseurl: "/AtikulIslam"
 
 # Author Information
 author:
-  name: "Usama Sarwar"
-  email: "contact@usama.dev"
-  twitter: "UsamaSarwarPro"
-  github: "UsamaSarwar"
-  linkedin: "UsamaSarwarPro"
-  website: "https://usama.dev"
+  name: "Atikul Islam Rabbi"
+  email: "help.atikulislam@gmail.com"
+  twitter: "Atikulislamx"
+  github: "Atikulislamx"
+  linkedin: "Atikulislamx"
+  website: "https://atikulislamx.github.io/Atikulislamx/"
 
 # SEO and Meta Information
 lang: en_US
-timezone: Asia/Karachi
+timezone: Asia/Dhaka
 
 # Site verification codes (add your verification codes here)
 # google_site_verification: "your-google-verification-code"
@@ -26,26 +26,26 @@ timezone: Asia/Karachi
 
 # Social Media Links
 social_links:
-  github: "https://github.com/UsamaSarwar"
-  linkedin: "https://linkedin.com/in/UsamaSarwarPro"
-  twitter: "https://twitter.com/UsamaSarwarPro"
-  youtube: "https://youtube.com/UsamaSarwar"
-  instagram: "https://instagram.com/UsamaSarwarPro"
-  facebook: "https://facebook.com/UsamaSarwarPro"
-  website: "https://usama.dev"
-  email: "contact@usama.dev"
-  whatsapp: "https://wa.me/923100007773"
+  github: "https://github.com/Atikulislamx"
+  linkedin: "https://linkedin.com/in/Atikulislamx"
+  twitter: "https://twitter.com/Atikulislamx"
+  youtube: "https://youtube.com/Atikulislamx"
+  instagram: "https://instagram.com/Atikulislamx"
+  facebook: "https://facebook.com/Atikulislamx"
+  website: "https://atikulislamx.github.io/Atikulislamx/"
+  email: "help.atikulislam@gmail.com"
+  whatsapp: "https://wa.me/+8801300228105"
 
 # Professional Information
 professional:
-  role: "Full-Stack Flutter Developer"
-  location: "Punjab, Pakistan"
+  role: "Social Media and Cybersecurity Specialist."
+  location: "Sirajganj, Bangladesh"
   experience_years: 5
   specializations:
-    - "Flutter Development"
-    - "Cross-Platform Mobile Apps"
+    - "Recover Hacked Facebook Page"
+    - "Recover Hacked Business Manager"
     - "AI Integration"
-    - "Web Development"
+    - "Disabled Account Restoring"
     - "Open Source"
 
 # Analytics and Tracking
