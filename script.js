@@ -298,7 +298,7 @@ function initializeContactForm() {
             }
 
             // Create mailto link
-            const mailtoLink = `mailto:contact@usama.dev?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
+            const mailtoLink = `mailto:help.atikulislam@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
 
             // Open email client
             window.location.href = mailtoLink;
