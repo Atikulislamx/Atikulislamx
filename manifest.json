@@ -1,13 +1,13 @@
 {
-    "name": "Usama Sarwar - Full-Stack Flutter Developer",
-    "short_name": "Usama Sarwar",
-    "description": "Professional Software Engineer expert at cross-platform Flutter App Development, Community Builder & Open Source Advocate empowering businesses through innovative technology solutions.",
-    "start_url": "/UsamaSarwar/",
+    "name": "Atikul Islam Rabbi - Social Media & Cybersecurity Expert | Founder of Cyber Infinity.",
+    "short_name": "Atikul Islam Rabbi",
+    "description": "Social Media & Cybersecurity Expert specializing in Recovering Hacked Facebook Page, Group, Account and other digital asset, Digital marketing strategy, and open-source contributions.",
+    "start_url": "/AtikulIslam/",
     "display": "standalone",
     "background_color": "#0D1117",
     "theme_color": "#9F7AEA",
     "orientation": "portrait-primary",
-    "scope": "/UsamaSarwar/",
+    "scope": "/AtikulIslam/",
     "lang": "en",
     "icons": [
         {
@@ -33,7 +33,7 @@
             "src": "images/coding.png",
             "sizes": "1280x720",
             "type": "image/png",
-            "label": "Usama Sarwar Portfolio Homepage"
+            "label": "Atikul Islam Rabbi Portfolio Homepage"
         }
     ]
 }
