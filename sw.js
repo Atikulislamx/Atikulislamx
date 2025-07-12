@@ -1,7 +1,7 @@
-// Service Worker for Usama Sarwar Portfolio
+// Service Worker for Atikul Islam Rabbi Portfolio
 // This enables offline functionality and caching for better performance
 
-const CACHE_NAME = 'usama-portfolio-v1.0.0';
+const CACHE_NAME = 'Atikul-portfolio-v1.0.0';
 const urlsToCache = [
     '/',
     '/index.html',
