@@ -4,8 +4,6 @@ Allow: /
 # Sitemap
 Sitemap: https://atikulislamx.github.io/Atikulislamx/sitemap.xml
 
-# Block access to specific files
-Disallow: /script.js
-Disallow: /style.css
+# Block access to system files only
 Disallow: /.nojekyll
 Disallow: /_config.yml
